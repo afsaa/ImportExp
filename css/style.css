@@ -61,6 +61,18 @@ body{
   font-weight: bold;
 }
 
+#Principios{
+  margin-right: 0;
+  padding-top:50px;
+  height:100vh;
+  color: grey;
+  background-color: white;
+}
+#Principios h1{
+  color: dimgrey;
+  font-weight: bold;
+}
+
 #Vision {
   margin-right: 0;
   padding-top:50px;
